@@ -16,3 +16,7 @@ Penjelasan:
  3.Buat variabel luas yang value nya merupakan rumus luas lingkaran
  4.Buat variabel keliling yang value nya merupakan rumus keliling lingkaran
  5.Kemudian ketika user telah memasukkan nilai jari-jari dan menekan enter, maka print hasilnya.
+
+ ### Output/Hasil dari program diatas
+ ![Gambar 3](ss/2.png)
+ ini adalah contoh hasil dari program yang kita buat, dimana user memasukkan nilai 5 sebagai jari-jari. Kemudian program menghitung hasilnya dan menampilkannya.
